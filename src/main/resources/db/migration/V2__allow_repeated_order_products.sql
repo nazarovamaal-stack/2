@@ -1,0 +1,1 @@
+ALTER TABLE order_items DROP CONSTRAINT order_items_order_id_product_id_key;
